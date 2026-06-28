@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Klean 🧹
 
 **Klean** é um utilitário de manutenção de sistema minimalista, seguro e transparente, projetado para otimizar o desempenho do Windows. A missão do Klean é devolver o controle e o espaço ao usuário, removendo arquivos inúteis e corrigindo erros comuns do sistema de forma rápida e segura.
@@ -63,3 +64,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *Issue* ou e
 ---
 
 *Desenvolvido com simplicidade e foco em performance.*
+=======
+# Klean
+Utilitário de código aberto para otimização, limpeza e reparo do Windows de forma segura.
+>>>>>>> 2932eb4415cef2470eae00237c8ccf2ede118d4e
