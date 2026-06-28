@@ -1,0 +1,31 @@
+# Pastas de cache e compilação do Nuitka/Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.build/
+*.dist/
+*.onefile-build/
+*.spec
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+
+# Arquivos de sistema do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Pastas de IDEs/Editores
+.vscode/
+.idea/
+.vs/
+
+# Arquivos temporários do compilador/sistema
+*.log
+*.tmp
+temp/
+build/
+dist/
